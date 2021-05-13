@@ -1,0 +1,19 @@
+---
+title: "Lia Capper"
+image: "lia.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lia-c-3925a4141/"
+  - label: GitHub Journal
+    url: "https://github.com/LiaCapper/447-Journal"
+  - label: GitHub Workbook
+    url: "https://github.com/LiaCapper/447-Workbook"
+  - label: Email
+    url: "capperlia@myvuw.ac.nz"
+theme: "postcards.css"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+ 
+I am a student at Victoria University of Wellington. I have completed a Bachelor of Science in Mathematics and Psychology, and am currently working towards Honours in Psychology. 

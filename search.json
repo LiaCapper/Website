@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-14T10:55:59+12:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Posts",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-14T10:56:00+12:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Lia Capper",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Lia's Website\r\n          \r\n          \r\n          Home\r\n          Posts\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Lia Capper\r\n          \r\n          \r\n            \r\n              I am a student at Victoria University of Wellington. I have completed a Bachelor of Science in Mathematics and Psychology, and am currently working towards Honours in Psychology.\r\n            \r\n            \r\n              I am a student at Victoria University of Wellington. I have completed a Bachelor of Science in Mathematics and Psychology, and am currently working towards Honours in Psychology.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub Journal\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub Workbook\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub Journal\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub Workbook\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-05-14T10:56:01+12:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
